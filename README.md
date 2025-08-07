@@ -1,5 +1,5 @@
-## Hi there ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/alfiya-fathima?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
-
+## Hi there<a href="https://www.gitanimals.org/">
+      <img src="https://render.gitanimals.org/guilds/673932991743754174/draw" width="600" height="300" alt="gitanimals"/></a>
 <!--
 **alfiya-fathima/alfiya-fathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
